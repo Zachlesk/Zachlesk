@@ -1,5 +1,6 @@
-### Hi there 👋
 
+<h1 align="center"> What's up? I'm Zach 👋 </h1>
+<img src="https://media.giphy.com/media/NfzERYyiWcXU4/giphy.gif" width="200">
 <!--
 **Zachlesk/Zachlesk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
