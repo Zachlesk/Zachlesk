@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
 <h1 align="center"> What's up? I'm Zach 👋 </h1>
-<img src="Banner GITHUB.png" width="800">
+<img src="Full-stack.png" width="800">
   <h3 align="center">  Full-stack developer in continuous learning </h3>
 </div>
 
@@ -22,5 +22,11 @@
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 
  </p>
+
+ <div class="container_container" align="center">
+    <div class="container_4">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JayantGoel001&theme=dark&hide_border=true"/>
+    </div>
+</div>
 
 
