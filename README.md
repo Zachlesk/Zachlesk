@@ -3,7 +3,7 @@
 <h1 align="center"> What's up? I'm Zach 👋 </h1>
 <img src="Full-stack.png" width="800">
   <h3 align="center">  Full-Stack Developer in continuous learning ⭐ </h3>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Zachlesk&label=Profile%20views&color=0e75b6&style=flat" alt="Zachlesk" /> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=Zachlesk&label=Profile%20views&color=0e75b6&style=flat" alt="Zachlesk" /> </p>
 
 </div>
 
