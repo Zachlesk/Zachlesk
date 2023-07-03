@@ -3,10 +3,10 @@
 <h1 align="center"> What's up? I'm Zach 👋 </h1>
 <img src="Full-stack.png" width="800">
   <h3 align="center">  Full-Stack Developer in continuous learning ⭐ </h3>
-
+</div>
 
   <h5 style="padding: 80px; text-align: justify"> I'm a Full-Stack developer with focus on JavaScript, React and Node.JS. My objetive is to provide exceptional user experiences and efficient solutions in each project, giving them a unique touch and working to make this one better than the previous project. If you are interested in collaborating on any of my projects or have ideas for a possible collaboration, don't hesitate to contact me! I'm open to new opportunities and I always enjoy working as a team.  </h5>
-</div>
+
 
 
 
