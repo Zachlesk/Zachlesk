@@ -2,9 +2,10 @@
 <div id="header" align="center">
 <h1 align="center"> What's up? I'm Zach 👋 </h1>
 <img src="Full-stack.png" width="800">
-  <h3 align="center">  Full-stack developer in continuous learning </h3>
+  <h2 align="center">  Full-Stack Developer in continuous learning ⭐ </h2>
+  [![GitHub followers](https://img.shields.io/github/followers/Zachlesk.svg?style=social)](https://github.com/Zachlesk)
 
-  <h6 align="center"> I am a full-stack developer with a focus on javascript, react and nodejs. My goal is to provide exceptional user experiences and efficient solutions in each project, giving them a unique touch and working to make this one better than the previous project. If you are interested in collaborating on any of my projects or have ideas for a possible collaboration, do not hesitate to contact me! I am open to new opportunities and I always enjoy working as a team. </h6>
+  <h5 align="center"> I'm a Full-Stack developer with focus on JavaScript, React and Node.JS. My objetive is to provide exceptional user experiences and efficient solutions in each project, giving them a unique touch and working to make this one better than the previous project. If you are interested in collaborating on any of my projects or have ideas for a possible collaboration, don't hesitate to contact me! I'm open to new opportunities and I always enjoy working as a team.  </h5>
 </div>
 
 
