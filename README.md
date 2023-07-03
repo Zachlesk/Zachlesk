@@ -3,9 +3,10 @@
 <h1 align="center"> What's up? I'm Zach 👋 </h1>
 <img src="Full-stack.png" width="800">
   <h3 align="center">  Full-stack developer in continuous learning </h3>
+
+  <h6 align="center"> I am a full-stack developer with a focus on javascript, react and nodejs. My goal is to provide exceptional user experiences and efficient solutions in each project, giving them a unique touch and working to make this one better than the previous project. If you are interested in collaborating on any of my projects or have ideas for a possible collaboration, do not hesitate to contact me! I am open to new opportunities and I always enjoy working as a team. </h6>
 </div>
 
-- 🌱 I’m currently learning **JavaScript, Node.JS, React, Express**
 
 
 <h3 align="center"> Languages and Tools: </h3>
@@ -24,8 +25,9 @@
  </p>
 
  <div class="container_container" align="center">
-    <div class="container_4">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JayantGoel001&theme=dark&hide_border=true"/>
+    <div class="container">
+      <h3 align="center"> Check my streak stats: </h3>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Zachlesk&theme=dark&hide_border=true"/>
     </div>
 </div>
 
