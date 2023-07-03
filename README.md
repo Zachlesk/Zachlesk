@@ -5,7 +5,11 @@
   <h3 align="center">  Full-Stack Developer in continuous learning ⭐ </h3>
 </div>
 
-  <h4 style="padding: 80px; text-align: justify"> I'm a Full-Stack developer with focus on JavaScript, React and Node.JS. My objetive is to provide exceptional user experiences and efficient solutions in each project, giving them a unique touch and working to make this one better than the previous project. If you are interested in collaborating on any of my projects or have ideas for a possible collaboration, don't hesitate to contact me! I'm open to new opportunities and I always enjoy working as a team.  </h4>
+  <h4 style="padding: 80px; text-align: justify"> I'm a Full-Stack developer with focus on JavaScript, React and Node.JS. </h4>
+    
+<p>  <h4 style="padding: 80px; text-align: justify"> My objetive is to provide exceptional user experiences and efficient solutions in each project, giving them a unique touch and working to make this one better than the previous project. </p> </h4>
+  
+<p>  <h4 style="padding: 80px; text-align: justify">  If you are interested in collaborating on any of my projects or have ideas for a possible collaboration, don't hesitate to contact me! I'm open to new opportunities and I always enjoy working as a team.  </p> </h4>
 
 
 
