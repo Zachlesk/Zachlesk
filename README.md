@@ -1,13 +1,13 @@
 
 <div id="header" align="center">
 <h1 align="center"> What's up? I'm Zach 👋 </h1>
-<img src="Banner GITHUB.png" width="200">
-  <h3 align="center">  Front-end developer in progress </h3>
+<img src="Banner GITHUB.png" width="800">
+  <h3 align="center">  Full-stack developer in continuous learning </h3>
 </div>
 
-- 🌱 I’m currently learning **JavaScript and PHP**
+- 🌱 I’m currently learning **JavaScript, Node.JS, React**
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, Git**
+- 💬 Ask me about **JavaScript, PHP, MYSQL, React, Node.JS, Git,**
 
 - 📫 How to reach me **zharojas23@gmail.com**
 
