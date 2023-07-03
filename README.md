@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
 <h1 align="center"> What's up? I'm Zach 👋 </h1>
-<img src="https://media.giphy.com/media/NfzERYyiWcXU4/giphy.gif" width="200">
+<img src="Banner GITHUB.png">
   <h3 align="center">  Front-end developer in progress </h3>
 </div>
 
