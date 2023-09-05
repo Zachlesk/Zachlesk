@@ -84,10 +84,10 @@
 <h2 align="center"> Connect with me </h2>
 
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/zharick-rojas-ardila/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juan-avila-442974276/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zharick-rojas-ardila/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zharick-rojas-ardila/" height="30" width="40" /></a>
 <a href="https://discord.gg/zachlest" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="juan856" height="30" width="40" /></a>
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zachlest" height="30" width="40" /></a>
   <div align="center">
 
 </div>
