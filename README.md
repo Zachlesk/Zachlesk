@@ -2,9 +2,6 @@
 <div id="header" align="center">
 <h1 align="center"> Hey! I'm Zach 👋 </h1>
 
-<img src="banner.png" width="800">
-  <p align="center"> 
-
  <h2 align="center">  MERN Stack Developer ⭐  </h2>
 
 
