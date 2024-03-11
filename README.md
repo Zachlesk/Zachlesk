@@ -2,10 +2,9 @@
 <div id="header" align="center">
 <h1 align="center"> Hey! I'm Zach 👋 </h1>
 
-<h3 align="center">  Web Developer ⭐  </h2>
 
-
-
+<img src="banner profile.png" width="800">
+  <p align="center"> 
 
 
 </div>
@@ -14,7 +13,7 @@
     
 <p>  <h4 style="text-align: center"> 💬 I love learning and staying on top of the latest trends in web development! I am always willing to collaborate on exciting projects and contribute my experience in creating high-quality technology solutions. </h4> </p> 
   
-<p>  <h4 style="text-align: center"> 📫 Feel free to contact me to discuss collaboration opportunities or interesting projects! I am excited about the possibility of working together in the world of MERN web development. </h4> </p> 
+<p>  <h4 style="text-align: center"> 📫 Feel free to contact me to discuss collaboration opportunities or interesting projects! I am excited about the possibility of working together in the world of web development. </h4> </p> 
 
 
 
@@ -22,6 +21,7 @@
 
 
 - JavaScript (ES6+)
+- TypeScript.
 - React.
 - Node.js and Express.js.
 - PHP, Yii and Laravel.
@@ -78,13 +78,13 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zachlesk&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
+
 
 [![](https://visitcount.itsvg.in/api?id=Phidolly06OB&icon=3&color=4)](https://visitcount.itsvg.in)
 </div>
 </div>
 
-<h2 align="center"> Connect with me </h2>
+<h2 align="center"> 🔎 Connect with me: </h2>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/zharick-rojas-ardila/" target="blank">
