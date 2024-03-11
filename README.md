@@ -2,7 +2,7 @@
 <div id="header" align="center">
 <h1 align="center"> Hey! I'm Zach 👋 </h1>
 
- <h2 align="center">  MERN Stack Developer ⭐  </h2>
+<h3 align="center">  Web Developer ⭐  </h2>
 
 
 
@@ -10,7 +10,7 @@
 
 </div>
 
-  <h4 style="text-align: center"> 🎯 MERN Stack Developer with emphasis on Node.js, with proficency in JavaScript and package managers. </h4>
+<h4 style="text-align: center"> 🎯  Web Developer with emphasis on Node.js and PHP, with proficency in JavaScript. </h4>
     
 <p>  <h4 style="text-align: center"> 💬 I love learning and staying on top of the latest trends in web development! I am always willing to collaborate on exciting projects and contribute my experience in creating high-quality technology solutions. </h4> </p> 
   
@@ -22,11 +22,13 @@
 
 
 - JavaScript (ES6+)
-- React (Components, States, Redux)
-- Node.js y Express.js
-- MongoDB (Data Model, CRUD)
-- HTML5 y CSS3 (Responsive web design)
-- Unit and integration tests.
+- React.
+- Node.js and Express.js.
+- PHP, Yii and Laravel.
+- AWS.
+- Docker.
+- MySQL.
+- MongoDB.
 
 <h2 align="center"> 💻 Tech Stack: </h2>
     <p align="center">
@@ -44,13 +46,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-original.svg" height="40" alt="yii logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
